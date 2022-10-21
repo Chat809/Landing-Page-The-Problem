@@ -1,0 +1,23 @@
+{
+  "name": "primeira-landing-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chat809/Primeira-Landing-Page.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chat809/Primeira-Landing-Page/issues"
+  },
+  "homepage": "https://github.com/Chat809/Primeira-Landing-Page#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.2",
+    "vue": "^3.2.41"
+  }
+}
